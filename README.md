@@ -31,7 +31,8 @@ If you have any questions or need assistance with AlphaFold2, USalign, Rosetta, 
 
 Are you an employer intrigued by my projects and expertise, and believe I'd be a valuable addition to your company? Don't hesitate to get in touch with me!
 
-[Contact me](rafal.madaj@protonmail.com)
+[Contact me](mailto:rafal.madaj@protonmail.com)
+
 
 <!--
 **Rmadeye/Rmadeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
