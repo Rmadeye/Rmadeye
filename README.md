@@ -1,7 +1,7 @@
 # Hi there! 👋
 I'm Rafał, a PhD in Chemical Sciences, with a strong focus on structural bioinformatics and related studies.
 
-I began my career as a traditional wet-lab scientist, but a serendipitous discovery of the power of Python and Bash led me to transition into the exciting world of structural biology-related bioinformatics. My expertise lies in protein folding and analysis, molecular docking, molecular dynamics, computer-aided drug design (CADD), and molecular modelling. More recently, I started applying Machine Learning (ML) and Deep Learning (DL) techniques to biological and chemical topics.
+I began my career as a traditional wet-lab scientist, but discovery of the power of Python and Bash led me to transition into world of structural biology-related bioinformatics. My expertise lies in structure-oriented python programming, data sciences, protein folding and analysis, molecular docking, molecular dynamics, computer-aided drug design (CADD), and molecular modelling. More recently, I started applying Machine Learning (ML) and Deep Learning (DL) techniques to biological and chemical topics.
 
 Throughout my career, I've been involved in a variety of biology-related projects, including:
 
@@ -25,7 +25,7 @@ For my research endeavors, I heavily rely on a range of powerful tools and techn
 
 Curious to know more about my scientific background, publications, and achievements? Check out my [Google Scholar profile](https://scholar.google.com/citations?user=KE99D40AAAAJ&hl=pl).
 
-Currently, I'm enthusiastically tackling the challenge of resolving improper folding of Connexin proteins, which contributes to a wide range of inherited diseases, including the personal aspect of Charcot-Marie-Tooth 1X syndrome.
+Currently, I'm tackling the challenge of resolving improper folding of Connexin proteins, which contributes to a wide range of inherited diseases, including the personal aspect of Charcot-Marie-Tooth 1X syndrome.
 
 If you have any questions or need assistance with AlphaFold2, USalign, Rosetta, or AMBER, feel free to reach out!
 
