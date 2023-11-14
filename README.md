@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm Rafał, a PhD in Chemical Sciences, with a strong focus on structural bioinformatics and related studies.
+I'm Rafał, a PhD in Chemical Sciences, with a strong focus on python programming and data science, especially in context structural bioinformatics and related studies.
 
 I began my career as a traditional wet-lab scientist, but discovery of the power of Python and Bash led me to transition into world of structural biology-related bioinformatics. My expertise lies in structure-oriented python programming, data sciences, protein folding and analysis, molecular docking, molecular dynamics, computer-aided drug design (CADD), and molecular modelling. More recently, I started applying Machine Learning (ML) and Deep Learning (DL) techniques to biological and chemical topics.
 
