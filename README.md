@@ -3,16 +3,7 @@ I'm Rafał, a PhD in Chemical Sciences, with a strong focus on python programmin
 
 I began my career as a traditional wet-lab scientist, but discovery of the power of Python and Bash led me to transition into world of structural biology-related bioinformatics. My expertise lies in structure-oriented python programming, data sciences, protein folding and analysis, molecular docking, molecular dynamics, computer-aided drug design (CADD), and molecular modelling. More recently, I started applying Machine Learning (ML) and Deep Learning (DL) techniques to biological and chemical topics.
 
-Throughout my career, I've been involved in a variety of biology-related projects, including:
-
-- Biodegradation of nitroarenes
-- Development of selective inhibitors for alkaline phosphatases
-- Treatment strategies for Novichok poisoning
-- Investigating GPCR receptors
-- Exploring Rossmann fold domains
-- Establishing a pipeline for an AI-based model to predict new drug candidates
-
-For my research endeavors, I heavily rely on a range of powerful tools and technologies, such as:
+For my research, I rely on a range of powerful tools and technologies, such as:
 
 - Python (leveraging pandas, numpy, some scikit-learn/torch, rdkit, biopandas, and occasionally biopython)
 - Bash (as a Linux user, including SLURM for cloud computing and automation of anything what is worth)
@@ -22,6 +13,16 @@ For my research endeavors, I heavily rely on a range of powerful tools and techn
 - Colabfold (for AF2 protein folding)
 - ESMfold
 - USAlign (for screening proper folding)
+
+Throughout my career, I've been involved in a variety of biology-related projects, including:
+
+- Prediction of nucleotide reacticity in RNA sequence
+- Biodegradation of nitroarenes
+- Development of selective inhibitors for alkaline phosphatases
+- Treatment strategies for Novichok poisoning
+- Investigating GPCR receptors
+- Exploring Rossmann fold domains
+- Establishing a pipeline for an AI-based model to predict new drug candidates
 
 Curious to know more about my scientific background, publications, and achievements? Check out my [Google Scholar profile](https://scholar.google.com/citations?user=KE99D40AAAAJ&hl=pl).
 
