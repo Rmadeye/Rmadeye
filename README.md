@@ -7,7 +7,7 @@ For my research, I rely on a range of powerful tools and technologies, such as:
 
 - **Python** (pandas, numpy, seaborn, scikit-learn, torch, wandb, rdkit, biopandas, and occasionaly flask, streamlit and biopython)
 - **Bash** (as a Linux user and Admin)
-- **HPC** (for scientific calculations using cloud computing with SLURM queue system)
+- **HPC** (for scientific calculations using cloud computing with SLURM queue system, AWS in progres..)
 - **AMBER** (for Molecular Dynamics simulations)
 - **Gnina/vina/diffdock** (for molecular docking)
 - **Rosetta** (for versatile protein analysis)
