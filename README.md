@@ -17,10 +17,11 @@ For my research, I rely on a range of powerful tools and technologies, such as:
 
 Throughout my career, I've been involved in a variety of biology-related projects, including:
 
+- Application of Graph Neural Networks in structural features of coiled-coil domains
 - Prediction of nucleotide reacticivity in RNA sequence in [Kaggle](https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding/overview)
 - Biodegradation of nitroarenes [Publication](https://www.mdpi.com/2227-9717/9/1/105?About=Link)
 - Development of selective inhibitors for alkaline phosphatases [Publication](https://www.sciencedirect.com/science/article/abs/pii/S1093326320305908)
-- Treatment strategies for Novichok poisoning (Paper in progress)
+- Treatment strategies for Novichok poisoning [Publication](https://www.mdpi.com/1420-3049/29/2/338)
 - Investigating GPCR receptors [Publication](https://pubs.rsc.org/en/content/articlelanding/2023/FO/D2FO03412C)
 - Exploring Rossmann fold domains [Publication](https://academic.oup.com/bib/article/23/1/bbab371/6375059)
 - Establishing a pipeline for an AI-based model to predict new drug candidates [Publication](https://www.tandfonline.com/doi/abs/10.1080/07391102.2021.1898474)
