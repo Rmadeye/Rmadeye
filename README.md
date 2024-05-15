@@ -38,7 +38,7 @@ Currently, I'm looking for **python** and **data-oriented** positions in the IT.
 
 Are you an employer intrigued by my projects and expertise, and believe I'd be a valuable addition to your company? Don't hesitate to get in touch with me!
 
-[Contact me](mailto:rafal.madaj@protonmail.com)
+[Contact me](mailto:rmadeye_work@proton.me)
 
 
 <!--
